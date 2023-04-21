@@ -60,6 +60,7 @@ body{
   /* Modal Content */
   .modal-content {
     background-color: hotpink;
+    font-size: 40px;
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
